@@ -1,4 +1,4 @@
-PDD_Adapter_twoway
+PDD_Adapter_simple
 ==================
 Patron de diseño adaptador
 
